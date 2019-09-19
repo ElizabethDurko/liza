@@ -1,10 +1,2 @@
-vjhjp b cjkywt ltym
-xtltcnnnysq
-
-vjhjp b cjkywt ltym
-xtltcnnnysq
-
-
-
-
-
+Создайте (branch) новую ветку, например, test и переключитесь
+(checkout) в нее. Добавье новый файл test.json и выполните commit.
